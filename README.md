@@ -70,4 +70,4 @@
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
-My name is Jero(Doyeon) Kim, a sophomore at SJA high school. I am the co-founder of TYK, a community service organization.
+My name is Jero(Doyeon) Kim, a sophomore at SJA high school. I am the co-founder of TYK, a community service organization. 
