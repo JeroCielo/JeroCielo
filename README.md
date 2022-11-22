@@ -48,9 +48,26 @@
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeroCielo&show_icons=true&bg_color=10,000000,0026ff&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true">
-  <br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeroCielo&langs_count=10&layout=compact&bg_color=10,000000,0026ff&title_color=ffffff&text_color=ffffff">
+<p align="left">
+  <a>
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=JeroCielo&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=JeroCielo&theme=radical&hide_border=true">		  
+  </a>
 </p>
 
+<p align="center">
+  <a>
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeroCielo&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{JeroCielo}/count.svg"></p>
+
+## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
+<ul>			
+	<li><i><a href="https://github.com/JeroCielo/InstagramNonfollowbacks">Instagram Nonfollowback Detector</a></i>:<ul><li>A Python project that uses selenium to find people who doesn't follow you back on Instagram. (Not Finished)</li></ul></li>
+</ul>
+
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+
+My name is Jero(Doyeon) Kim, a sophomore at SJA high school. I am the co-founder of TYK, a community service organization.
