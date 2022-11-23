@@ -16,9 +16,6 @@
   <img src="https://img.shields.io/badge/Dart-0075ba?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Java-0075ba?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
-  <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-  
 </div>
 </p>
 
@@ -28,9 +25,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-474747?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-f5820d.svg?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 </p>
 
