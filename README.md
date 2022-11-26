@@ -62,6 +62,14 @@
 	<li><i><a href="https://github.com/JeroCielo/InstagramNonfollowbacks">Instagram Nonfollowback Detector</a></i>:<ul><li>A Python project that uses selenium to find people who doesn't follow you back on Instagram. (Not Finished)</li></ul></li>
 </ul>
 
+<ul>			
+	<li><i><a href="https://relaxed-marigold-364b8e.netlify.app">Personal Website & Portfolio</a></i>:<ul><li>Used Tailwind and JS to build my portfolio! (Not Finished)</li></ul></li>
+</ul>
+
+<ul>	
+	<li><i><a href="https://github.com/oculit-dev/NexusApp">Nexus</a></i>:<ul><li>A flutter project that aims to automaticly find the best communnity service for you. Me and my friend at Oculit is working on this so that the students in the GEC are able to easily attend to community hours.</li></ul></li>
+</ul>
+
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
-My name is Jero(Doyeon) Kim, a sophomore at SJA high school. I am the co-founder of TYK, a community service organization. 
+Hi, I am a sophomore at SJA high school and the co-founder of TYK, a community service organization. I am planning on working on multiple projects and entering competitions with my friends. Although I started computer science very late, I am very passionate and hope to become an excellent programmer and build amazing stuff such as apps, websites, and games. If you want to join me in this journey, feel free to contact me!
