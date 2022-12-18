@@ -59,11 +59,11 @@
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
-	<li><i><a href="https://github.com/JeroCielo/InstagramNonfollowbacks">Instagram Nonfollowback Detector</a></i>:<ul><li>A Python project that uses selenium to find people who doesn't follow you back on Instagram. (Not Finished)</li></ul></li>
+	<li><i><a href="https://github.com/JeroCielo/InstagramNonfollowbacks">Instagram Nonfollowback Detector</a></i>:<ul><li>A Python project that uses selenium to find people who doesn't follow you back on Instagram. (Having Trouble)</li></ul></li>
 </ul>
 
 <ul>			
-	<li><i><a href="https://relaxed-marigold-364b8e.netlify.app">Personal Website & Portfolio</a></i>:<ul><li>Used Tailwind and JS to build my portfolio! (Not Finished)</li></ul></li>
+	<li><i><a href="https://relaxed-marigold-364b8e.netlify.app">Personal Website & Portfolio</a></i>:<ul><li>Used Tailwind and JS to build my portfolio!</li></ul></li>
 </ul>
 
 <ul>	
